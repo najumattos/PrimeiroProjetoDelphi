@@ -1,0 +1,17 @@
+# Executáveis e arquivos compilados
+*.exe
+*.dcu
+*.bpl
+*.dcp
+*.res
+*.obj
+
+# Arquivos de projeto e temporários
+*.dproj.local
+*.dsk
+*.identcache
+*.bdsproj.local
+*.tds
+
+# Pastas de histórico e backups
+__history/
